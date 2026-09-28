@@ -15,14 +15,14 @@ const contactLinks = [
 	},
 	{
 		label: 'LINKEDIN',
-		value: 'linkedin.com/in/imkarthees',
-		href: 'https://linkedin.com/in/imkarthees',
+		value: 'linkedin.com/in/mrkarthees',
+		href: 'https://linkedin.com/in/mrkarthees',
 		icon: FaLinkedin,
 	},
 	{
 		label: 'GITHUB',
-		value: 'github.com/imkarthees',
-		href: 'https://github.com/imkarthees',
+		value: 'github.com/mrkarthees',
+		href: 'https://github.com/mrkarthees',
 		icon: FaGithub,
 	},
 ];

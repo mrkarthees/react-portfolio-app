@@ -11,17 +11,17 @@ const socialLinks = [
 	},
 	{
 		name: 'Dribbble',
-		href: 'https://dribbble.com/imkarthees',
+		href: 'https://dribbble.com/mrkarthees',
 		icon: FaDribbble,
 	},
 	{
 		name: 'LinkedIn',
-		href: 'https://linkedin.com/in/imkarthees',
+		href: 'https://linkedin.com/in/mrkarthees',
 		icon: FaLinkedin,
 	},
 	{
 		name: 'GitHub',
-		href: 'https://github.com/imkarthees',
+		href: 'https://github.com/mrkarthees',
 		icon: FaGithub,
 	},
 ];
